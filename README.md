@@ -1,4 +1,5 @@
 viable-system-model
 ===================
 
-an implementation of the viable system model for the web
+In essence a VSM can be viewed as a meta-object-protocol for an organization. 
+
